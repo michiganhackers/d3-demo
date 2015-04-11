@@ -1,0 +1,10 @@
+body {
+	font: 11px sans-serif;
+	margin: 0;
+}
+
+#graph {
+	width: 1000px;
+	height: 600px;
+	margin: 0 auto;
+}

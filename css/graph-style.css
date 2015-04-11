@@ -1,0 +1,21 @@
+.graph-area > rect {
+	fill: #FAFAFA;
+}
+
+.graph-area > .border {
+	fill: #DF9F6A;
+}
+
+.x-rule > line,
+.y-rule > line {
+	stroke: #FFFFFF;
+	shape-rendering: crispEdges;
+}
+
+.graph-path {
+	stroke: #DF9F6A;
+	stroke-width: 2;
+	fill: none;
+	shape-rendering: crispEdges;
+}
+
